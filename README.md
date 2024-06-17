@@ -1,4 +1,5 @@
-Overview
+Overview:
+
 This project is a simple image encryption tool developed using pixel manipulation techniques. The tool allows users to encrypt and decrypt images by performing basic operations on pixel values. The encryption and decryption processes ensure that the image data is transformed in a way that is reversible, allowing the original image to be restored.
 
 Features
